@@ -1,0 +1,17 @@
+/*tout les p*/
+p{
+    color: brown;
+    font-size: xx-large;
+    margin-left: 100;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+/*# = id*/
+#p{
+    color: bisque;
+
+}
+/*.x = class (plus propre)*/ 
+.p{
+    color: chartreuse;
+}
