@@ -1,0 +1,15 @@
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\obj\Debug\net6.0\Cabinet Veto.csproj.AssemblyReference.cache
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\obj\Debug\net6.0\Cabinet Veto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\obj\Debug\net6.0\Cabinet Veto.AssemblyInfoInputs.cache
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\obj\Debug\net6.0\Cabinet Veto.AssemblyInfo.cs
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\obj\Debug\net6.0\Cabinet Veto.csproj.CoreCompileInputs.cache
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\bin\Debug\net6.0\Cabinet Veto.exe
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\bin\Debug\net6.0\Cabinet Veto.deps.json
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\bin\Debug\net6.0\Cabinet Veto.runtimeconfig.json
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\bin\Debug\net6.0\Cabinet Veto.dll
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\bin\Debug\net6.0\Cabinet Veto.pdb
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\obj\Debug\net6.0\Cabinet Veto.dll
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\obj\Debug\net6.0\refint\Cabinet Veto.dll
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\obj\Debug\net6.0\Cabinet Veto.pdb
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\obj\Debug\net6.0\Cabinet Veto.genruntimeconfig.cache
+C:\Users\boula\Desktop\OUTILS CREATION\Formation\Business Analyste\7--DEV 00.NET ==C#\C#project\rider\Cabinet Veto\Cabinet Veto\obj\Debug\net6.0\ref\Cabinet Veto.dll
